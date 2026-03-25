@@ -222,5 +222,6 @@ Include:
 * README
 * Lighthouse screenshot
 * Live deployed link
+* https://taskmanagemetpro.netlify.app/
 
 ---
